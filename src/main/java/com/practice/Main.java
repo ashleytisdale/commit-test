@@ -2,6 +2,6 @@ package com.practice;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("commit test2");
+        System.out.println("commit test3");
     }
 }
